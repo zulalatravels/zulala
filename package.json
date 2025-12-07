@@ -48,7 +48,7 @@
     "yup": "^1.0.2"
   },
   "scripts": {
-    "start": "node src/server.js",
+    "start": "node src/server.js"
   },
   "proxy": "http://localhost:5000",
   "devDependencies": {
